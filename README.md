@@ -9,8 +9,4 @@ In open Source we Trust
 <br>
 <div class="gist-meta">Hosted with ❤ by <a href="https://github.com">GitHub</a> </div>
 </footer>
-<style>
-  .love {
-  text-align: center;
-  }
-  </style>
+
