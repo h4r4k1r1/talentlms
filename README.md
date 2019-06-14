@@ -4,6 +4,7 @@ Feel free to pull anything you like
 <br>
 In open Source we Trust
 
-<p class="love">Made with ❤ in Athens</p>
+<p class="love">Made with ❤ <strong><i> by Salih Demir </i></strong> in Athens</p>
 <span>AND</span>
-<p class="hosted">hosted with ❤ by Github</p>
+<br>
+<p class="host"> Hosted with ❤ by Github</p>
