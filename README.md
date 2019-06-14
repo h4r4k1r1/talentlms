@@ -5,4 +5,5 @@ Feel free to pull anything you like
 In open Source we Trust
 
 <p class="love">Made with ❤ in Athens</p>
-<p class="hosted>"hosted with ❤ by Github</p>
+<span>AND</span>
+<p class="hosted">hosted with ❤ by Github</p>
