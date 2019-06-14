@@ -1,0 +1,8 @@
+$(function(){
+	if($('.tl-learner-dashboard-box').length){
+		$('#tl-catalog-switcher').hide();
+		if($('#tl-catalog-switcher .active[onclick*="/dashboard/index/mode:list"]').length){
+			$('#tl-catalog-switcher .btn[onclick*="/dashboard/index/mode:grid"]').click();
+		}
+	}
+});
