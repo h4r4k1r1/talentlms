@@ -4,9 +4,13 @@ Feel free to pull anything you like
 <br>
 In open Source we Trust
 <footer>
-<p class="love" style="text-align:center;">Made with ❤ <a href="https://github.com/salihhdemirr"><strong><i> by Salih Demir </i></strong></a> in Athens</p>
+<p class="love">Made with ❤ <a href="https://github.com/salihhdemirr"><strong><i> by Salih Demir </i></strong></a> in Athens</p>
 <span>AND</span>
 <br>
 <div class="gist-meta">Hosted with ❤ by <a href="https://github.com">GitHub</a> </div>
 </footer>
-
+<style>
+  .love {
+  text-align: center;
+  }
+  </style>
