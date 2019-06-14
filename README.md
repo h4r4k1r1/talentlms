@@ -4,7 +4,7 @@ Feel free to pull anything you like
 <br>
 In open Source we Trust
 
-<p class="love">Made with ❤ <strong><i> by Salih Demir </i></strong> in Athens</p>
+<p class="love">Made with ❤ <a href="https://github.com/salihhdemirr"><strong><i> by Salih Demir </i></strong></a> in Athens</p>
 <span>AND</span>
 <br>
-<p class="host"> Hosted with ❤ by Github</p>
+<div class="gist-meta">Hosted with ❤ by <a href="https://github.com">GitHub</a> </div>
